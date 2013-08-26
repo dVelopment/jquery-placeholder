@@ -130,7 +130,7 @@
 			} else {
 				input.value = '';
 				$input.removeClass('placeholder');
-				input == document.activeElement && input.select();
+//				input == document.activeElement && input.select();
 			}
 		}
 	}
